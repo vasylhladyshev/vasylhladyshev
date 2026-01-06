@@ -46,6 +46,14 @@ Live: https://vasylhladyshev.github.io/miami-site/
 
 ---
 
+### 🎮 2048 Game
+Classic 2048 puzzle recreated from scratch with custom logic and UI.
+**Tech:** JavaScript
+Code: https://github.com/vasylhladyshev/2048_game  
+Live: https://vasylhladyshev.github.io/2048_game/
+
+---
+
 ## 📚 What I’m learning
 - Advanced React patterns
 - Django backend fundamentals
