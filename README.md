@@ -8,7 +8,7 @@ I work mainly with **React, JavaScript, Typescript, HTML, CSS** and have hands-o
 
 - React, Typescript, JavaScript
 - HTML, CSS
-- Django basics (integration, small backend tasks)
+- Python, SQL, Django (basics)
 - REST APIs, UI debugging, component-based development
 
 ---
